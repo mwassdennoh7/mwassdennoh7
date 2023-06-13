@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mwassdennoh
+- 👀 I’m interested in data science 
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate with anyone will to go down this road 'Data science"
+- 📫 How to reach me email profientw@gmail.com
