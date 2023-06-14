@@ -1,0 +1,4 @@
+LIBRARIES USED ON VISUALIZATION ANALYSIS
+numpy
+matplotlib
+pandas
